@@ -1,0 +1,3 @@
+" Obfuscation (Spaces)": "My credit card is 4 . 5 . 0 . 8 . 1 . 2", 
+    "Natural Language": "The secret code is five five eight zero",
+    "Ambiguity (Context)": "I am wearing Jordan shoes in Jordan the country"
